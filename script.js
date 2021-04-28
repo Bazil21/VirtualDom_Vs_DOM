@@ -1,7 +1,7 @@
 const js = document.getElementById("JS");
 const reactDiv = document.getElementById("reactjs");
 const heading = document.getElementById("head");
-``
+heading.innerHTML ="VirtualDom Vs DOM";
 
 const App = () =>
 {

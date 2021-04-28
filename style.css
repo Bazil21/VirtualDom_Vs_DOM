@@ -3,6 +3,11 @@ body{
     padding: 0;
     background-color: #15387f;
 }
+#head{
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
 .split{
     background-color: #1738;
     width: 50%;
