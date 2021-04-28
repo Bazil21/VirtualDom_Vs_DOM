@@ -1,4 +1,13 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: #15387f;
+}
+.split{
+    background-color: #1738;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    border: 5px solid rgb(211, 83, 83);
+    margin-top: 100px;
 }
